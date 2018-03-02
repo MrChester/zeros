@@ -1,3 +1,5 @@
 module.exports = function getZerosCount(number) {
-  // your implementation
+    var count = 0;
+
+    return count;
 }
